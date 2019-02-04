@@ -10,6 +10,9 @@ namespace HailBetulania
     {
         static void Main(string[] args)
         {
+            Betulania bt = new Betulania();
+            Console.WriteLine(bt.AllHailBetulania());
+            Console.ReadKey();
         }
     }
 }
