@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HailBetulania
 {
-    class Betulania
+    public class Betulania
     {
         public string AllHailBetulania() {
             return "All Hail Betulania!";
