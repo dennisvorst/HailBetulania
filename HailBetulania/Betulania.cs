@@ -11,6 +11,5 @@ namespace HailBetulania
         public string AllHailBetulania() {
             return "All Hail Betulania!";
         }
-
     }
 }
